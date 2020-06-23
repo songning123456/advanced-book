@@ -1,0 +1,39 @@
+{
+  "plugins": [
+    "hide-element",
+    "back-to-top-button",
+    "chapter-fold",
+    "code",
+    "splitter",
+    "-lunr",
+    "-search",
+    "search-pro",
+    "popup",
+    "-sharing",
+    "sharing-plus"
+  ],
+  "pluginsConfig": {
+    "hide-element": {
+      "elements": [
+        ".gitbook-link"
+      ]
+    },
+    "sharing": {
+      "douban": true,
+      "facebook": false,
+      "google": false,
+      "pocket": false,
+      "qq": true,
+      "qzone": true,
+      "twitter": false,
+      "weibo": true,
+      "all": [
+        "douban", "facebook", "google", "instapaper", "linkedin","twitter", "weibo",
+        "messenger","qq", "qzone","viber","whatsapp"
+      ]
+    },
+    "title": "interview",
+    "description": "interview of sonin",
+    "author": "sonin"
+  }
+}
